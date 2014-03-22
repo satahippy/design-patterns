@@ -1,5 +1,11 @@
-package ru.satahippy.learning.design_patterns.strategy;
+package ru.satahippy.learning.design_patterns.strategy.movement;
 
+
+/**
+ * Strategy Design Pattern Example
+ * IMovementBehavior is a Strategy Interface. LandMovementBehavior, AirMovementBehavior, TeleportMovementBehavior implements this interface. These are Concrete Strategies.
+ * Transport is a Abstract Context. Car, Airplane, Teleport it child. Each of these has it own way to work with strategy.
+ */
 public class Main
 {
 	public static void main(String[] args)

@@ -1,4 +1,4 @@
-package ru.satahippy.learning.design_patterns.strategy;
+package ru.satahippy.learning.design_patterns.strategy.movement;
 
 /**
  * implementation of Transport with fixed movement behavior

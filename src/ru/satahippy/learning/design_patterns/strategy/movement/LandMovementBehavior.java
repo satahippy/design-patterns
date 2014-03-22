@@ -1,4 +1,4 @@
-package ru.satahippy.learning.design_patterns.strategy;
+package ru.satahippy.learning.design_patterns.strategy.movement;
 
 import java.util.ArrayList;
 
@@ -39,6 +39,6 @@ public class LandMovementBehavior implements IMovementBehavior
 
 	protected int randomBetween(int lower, int upper)
 	{
-		return (int)(Math.random() * (upper - lower) + lower);
+		return (int) (Math.random() * (upper - lower) + lower);
 	}
 }

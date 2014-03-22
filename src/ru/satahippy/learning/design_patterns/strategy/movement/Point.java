@@ -1,4 +1,4 @@
-package ru.satahippy.learning.design_patterns.strategy;
+package ru.satahippy.learning.design_patterns.strategy.movement;
 
 public class Point
 {

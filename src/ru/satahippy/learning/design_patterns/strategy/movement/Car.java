@@ -1,6 +1,4 @@
-package ru.satahippy.learning.design_patterns.strategy;
-
-import java.util.ArrayList;
+package ru.satahippy.learning.design_patterns.strategy.movement;
 
 /**
  * Simple implementation of Transport
